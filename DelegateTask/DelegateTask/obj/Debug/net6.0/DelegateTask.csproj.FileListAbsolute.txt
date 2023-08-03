@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.exe
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.deps.json
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.dll
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.pdb
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.dll
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\refint\DelegateTask.dll
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.pdb
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateTask\DelegateTask\obj\Debug\net6.0\ref\DelegateTask.dll

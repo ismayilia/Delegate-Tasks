@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\bin\Debug\net6.0\DelegateLessonTask.exe
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\bin\Debug\net6.0\DelegateLessonTask.deps.json
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\bin\Debug\net6.0\DelegateLessonTask.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\bin\Debug\net6.0\DelegateLessonTask.dll
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\bin\Debug\net6.0\DelegateLessonTask.pdb
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.dll
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\refint\DelegateLessonTask.dll
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.pdb
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\DelegateLessonTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 02.08\DelegateLessonTask\DelegateLessonTask\obj\Debug\net6.0\ref\DelegateLessonTask.dll
